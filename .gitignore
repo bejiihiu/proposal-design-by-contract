@@ -1,0 +1,14 @@
+# internal working notes & AI-session artifacts — never committed
+notes.md
+idea.md
+
+# dependencies & build output
+node_modules/
+dist/
+coverage/
+
+# misc
+.env
+*.log
+.DS_Store
+Thumbs.db
